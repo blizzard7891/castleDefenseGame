@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="7" tilewidth="70" tileheight="70" nextobjectid="1">
+ <tileset firstgid="1" name="medieval_tilesheet" tilewidth="70" tileheight="70" tilecount="336" columns="24">
+  <image source="../해오라기/Platformer Pack Medieval/Tilesheet/medieval_tilesheet.png" width="1680" height="980"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="13" height="7">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,86,85,61,61,85,84,88,0,0,0,
+0,86,61,110,108,108,108,108,108,112,61,88,0,
+0,110,109,110,109,109,109,109,109,112,108,112,0,
+0,110,109,110,109,245,246,247,108,112,108,112,0,
+0,110,109,110,109,269,270,271,108,112,108,112,0,
+0,110,109,110,109,293,294,295,108,112,108,112,0
+</data>
+ </layer>
+ <layer name="Tile Layer 2" width="13" height="7">
+  <data encoding="csv">
+0,0,0,0,0,0,188,189,0,0,0,0,0,
+0,188,189,0,0,0,0,0,0,0,0,188,189,
+0,0,0,0,163,0,0,0,163,0,0,0,0,
+0,0,123,0,0,0,0,0,0,0,123,0,0,
+0,0,147,0,234,0,0,0,234,0,147,0,0,
+0,0,171,0,258,0,0,0,258,0,171,0,0,
+0,0,0,0,282,0,0,0,282,0,0,0,0
+</data>
+ </layer>
+</map>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDproto", "TDproto.csproj", "{B53DCDC5-20EA-8853-8DF1-0D067C7A9660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDproto.Editor", "TDproto.Editor.csproj", "{1066B00E-FAE9-5A44-E6A4-B23FE20F9C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53DCDC5-20EA-8853-8DF1-0D067C7A9660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53DCDC5-20EA-8853-8DF1-0D067C7A9660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53DCDC5-20EA-8853-8DF1-0D067C7A9660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53DCDC5-20EA-8853-8DF1-0D067C7A9660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1066B00E-FAE9-5A44-E6A4-B23FE20F9C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1066B00E-FAE9-5A44-E6A4-B23FE20F9C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1066B00E-FAE9-5A44-E6A4-B23FE20F9C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1066B00E-FAE9-5A44-E6A4-B23FE20F9C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

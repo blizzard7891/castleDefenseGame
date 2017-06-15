@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: d668d2c7f40e6b9478ccdbb535bb2c66
+timeCreated: 1493824248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: erodaxia summary_0
+    21300002: erodaxia summary_1
+    21300004: erodaxia summary_2
+    21300006: erodaxia summary_3
+    21300008: erodaxia summary_4
+    21300010: erodaxia summary_5
+    21300012: erodaxia summary_6
+    21300014: erodaxia summary_7
+    21300016: erodaxia summary_8
+    21300018: erodaxia summary_9
+    21300020: erodaxia summary_10
+    21300022: erodaxia summary_11
+    21300024: erodaxia summary_12
+    21300026: erodaxia summary_13
+    21300028: erodaxia summary_14
+    21300030: erodaxia summary_15
+    21300032: erodaxia summary_16
+    21300034: erodaxia summary_17
+    21300036: erodaxia summary_18
+    21300038: erodaxia summary_19
+    21300040: erodaxia summary_20
+    21300042: erodaxia summary_21
+    21300044: erodaxia summary_22
+    21300046: erodaxia summary_23
+    21300048: erodaxia summary_24
+    21300050: erodaxia summary_25
+    21300052: erodaxia summary_26
+    21300054: erodaxia summary_27
+    21300056: erodaxia summary_28
+    21300058: erodaxia summary_29
+    21300060: erodaxia summary_30
+    21300062: erodaxia summary_31
+    21300064: erodaxia summary_32
+    21300066: erodaxia summary_33
+    21300068: erodaxia summary_34
+    21300070: erodaxia summary_35
+    21300072: erodaxia summary_36
+    21300074: erodaxia summary_37
+    21300076: erodaxia summary_38
+    21300078: erodaxia summary_39
+    21300080: erodaxia summary_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erodaxia summary_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 356
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 355
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 357
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 355
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 356
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 356
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 96
+        width: 53
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 312
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 313
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 314
+        width: 52
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 314
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 275
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 311
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 242
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 243
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 264
+        width: 120
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 241
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 235
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 243
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 195
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 147
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 149
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 152
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 152
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 192
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 95
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 97
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 95
+        width: 120
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 49
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 49
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 49
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: erodaxia summary_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
