@@ -35,74 +35,50 @@ public class PluginManager : MonoBehaviour {
 
     public void call_androidSTT()
     {
-        if(AJO != null)
-        {
-            AJO.Call("StartSpeechRecoService");
-        }
-        else
-        {
-            Debug.Log("AJO == null");
-        }
+        if(AJO == null)
+            return;
+      
+        AJO.Call("StartSpeechRecoService");
     }
 
     public void call_androidTTS(string word)
     {
-        if(AJO != null)
-        {
-            AJO.Call("StartTextToSpeechService", word);
-        }
-        else
-        {
-            Debug.Log("AJO==null");
-        }
+        if(AJO == null)
+            return;
+      
+        AJO.Call("StartTextToSpeechService", word);
     }
 
     public void call_androidQuestion(int num, bool correct)
     {
-        if(AJO != null)
-        {
-            AJO.Call("StartQuestionTransmissionService",num, correct);
-        }
-        else
-        {
-            Debug.Log("AJO==null");
-        }
+        if(AJO == null)
+            return;
+      
+        AJO.Call("StartQuestionTransmissionService",num, correct);
     }
 
     public void call_androidScoreLoad()
     {
-        if (AJO != null)
-        {
-            AJO.Call("SendScoreToUnity");
-        }
-        else
-        {
-            Debug.Log("AJO==null");
-        }
+        if(AJO == null)
+            return;
+      
+        AJO.Call("SendScoreToUnity");
     }
 
     public void call_saveGame2Score(int score)
     {
-        if (AJO != null)
-        {
-            AJO.Call("SaveGame2Score",score);
-        }
-        else
-        {
-            Debug.Log("AJO==null");
-        }
+        if(AJO == null)
+            return;
+      
+        AJO.Call("SaveGame2Score",score);
     }
 
     public void call_getGame2Score()
     {
-        if (AJO != null)
-        {
-            AJO.Call("GetGame2Score");
-        }
-        else
-        {
-            Debug.Log("AJO==null");
-        }
+       if(AJO == null)
+            return;
+      
+       AJO.Call("GetGame2Score");
     }
 
     public void sttUnity(string result)
